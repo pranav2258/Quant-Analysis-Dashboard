@@ -1,0 +1,51 @@
+Broker,Metric,Value
+Alpha Securities,Liquidity,5
+Beta Brokerage,Liquidity,3
+Gamma Traders,Liquidity,5
+Delta Financial,Liquidity,5
+Epsilon Investments,Liquidity,3
+Zeta Capital,Liquidity,3
+Eta Holdings,Liquidity,5
+Theta Partners,Liquidity,4
+Iota Securities,Liquidity,5
+Kappa Markets,Liquidity,5
+Alpha Securities,Bid-Ask Rating,5
+Beta Brokerage,Bid-Ask Rating,5
+Gamma Traders,Bid-Ask Rating,3
+Delta Financial,Bid-Ask Rating,5
+Epsilon Investments,Bid-Ask Rating,4
+Zeta Capital,Bid-Ask Rating,3
+Eta Holdings,Bid-Ask Rating,4
+Theta Partners,Bid-Ask Rating,4
+Iota Securities,Bid-Ask Rating,4
+Kappa Markets,Bid-Ask Rating,4
+Alpha Securities,Market Depth,3
+Beta Brokerage,Market Depth,3
+Gamma Traders,Market Depth,4
+Delta Financial,Market Depth,4
+Epsilon Investments,Market Depth,3
+Zeta Capital,Market Depth,3
+Eta Holdings,Market Depth,3
+Theta Partners,Market Depth,5
+Iota Securities,Market Depth,5
+Kappa Markets,Market Depth,5
+Alpha Securities,Price Resilience,4
+Beta Brokerage,Price Resilience,5
+Gamma Traders,Price Resilience,4
+Delta Financial,Price Resilience,4
+Epsilon Investments,Price Resilience,5
+Zeta Capital,Price Resilience,4
+Eta Holdings,Price Resilience,5
+Theta Partners,Price Resilience,5
+Iota Securities,Price Resilience,3
+Kappa Markets,Price Resilience,5
+Alpha Securities,Immediacy,3
+Beta Brokerage,Immediacy,5
+Gamma Traders,Immediacy,5
+Delta Financial,Immediacy,3
+Epsilon Investments,Immediacy,3
+Zeta Capital,Immediacy,5
+Eta Holdings,Immediacy,4
+Theta Partners,Immediacy,3
+Iota Securities,Immediacy,4
+Kappa Markets,Immediacy,4

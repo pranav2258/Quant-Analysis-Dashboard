@@ -1,0 +1,13 @@
+Order group,Metric Name,Metric Value
+Aggressive strategy,Order slippage,39.0
+Passive strategy,Order slippage,25.0
+Aggressive strategy,Realized alpha,50.0
+Passive strategy,Realized alpha,40.0
+Aggressive strategy,Predicted alpha,50.0
+Passive strategy,Predicted alpha,50.0
+Aggressive strategy,Price impact,20.0
+Passive strategy,Price impact,8.0
+Aggressive strategy,Alpha slippage,15.0
+Passive strategy,Alpha slippage,0.0
+Aggressive strategy,Spread & fees,4.0
+Passive strategy,Spread & fees,0.0

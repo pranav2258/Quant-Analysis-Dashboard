@@ -1,0 +1,301 @@
+Venue Name,TimeBucket,Dealer,Slippage
+Regulated Market,Pre-Market,Morgan Stanley,1.549671415
+Regulated Market,Pre-Market,Barclays,1.48617357
+Regulated Market,Pre-Market,JP Morgan,1.564768854
+Regulated Market,Pre-Market,Citadel,1.652302986
+Regulated Market,Pre-Market,Goldman Sachs,1.476584663
+Regulated Market,Pre-Market,Interactive Brokers,1.476586304
+Regulated Market,Pre-Market,Bank of America,1.657921282
+Regulated Market,Pre-Market,Credit Suisse,1.576743473
+Regulated Market,Pre-Market,UBS,1.453052561
+Regulated Market,Pre-Market,Virtu Financial,1.554256004
+Regulated Market,9:00-10:00,Morgan Stanley,0.953658231
+Regulated Market,9:00-10:00,Barclays,0.953427025
+Regulated Market,9:00-10:00,JP Morgan,1.024196227
+Regulated Market,9:00-10:00,Citadel,0.808671976
+Regulated Market,9:00-10:00,Goldman Sachs,0.827508217
+Regulated Market,9:00-10:00,Interactive Brokers,0.943771247
+Regulated Market,9:00-10:00,Bank of America,0.898716888
+Regulated Market,9:00-10:00,Credit Suisse,1.031424733
+Regulated Market,9:00-10:00,UBS,0.909197592
+Regulated Market,9:00-10:00,Virtu Financial,0.85876963
+Regulated Market,10:00-11:00,Morgan Stanley,0.946564877
+Regulated Market,10:00-11:00,Barclays,0.77742237
+Regulated Market,10:00-11:00,JP Morgan,0.80675282
+Regulated Market,10:00-11:00,Citadel,0.657525181
+Regulated Market,10:00-11:00,Goldman Sachs,0.745561728
+Regulated Market,10:00-11:00,Interactive Brokers,0.811092259
+Regulated Market,10:00-11:00,Bank of America,0.684900642
+Regulated Market,10:00-11:00,Credit Suisse,0.837569802
+Regulated Market,10:00-11:00,UBS,0.739936131
+Regulated Market,10:00-11:00,Virtu Financial,0.770830625
+Regulated Market,11:00-12:00,Morgan Stanley,0.539829339
+Regulated Market,11:00-12:00,Barclays,0.785227818
+Regulated Market,11:00-12:00,JP Morgan,0.598650278
+Regulated Market,11:00-12:00,Citadel,0.494228907
+Regulated Market,11:00-12:00,Goldman Sachs,0.682254491
+Regulated Market,11:00-12:00,Interactive Brokers,0.477915635
+Regulated Market,11:00-12:00,Bank of America,0.62088636
+Regulated Market,11:00-12:00,Credit Suisse,0.404032988
+Regulated Market,11:00-12:00,UBS,0.467181395
+Regulated Market,11:00-12:00,Virtu Financial,0.619686124
+Regulated Market,12:00-13:00,Morgan Stanley,0.773846658
+Regulated Market,12:00-13:00,Barclays,0.717136828
+Regulated Market,12:00-13:00,JP Morgan,0.688435172
+Regulated Market,12:00-13:00,Citadel,0.66988963
+Regulated Market,12:00-13:00,Goldman Sachs,0.552147801
+Regulated Market,12:00-13:00,Interactive Brokers,0.628015579
+Regulated Market,12:00-13:00,Bank of America,0.653936123
+Regulated Market,12:00-13:00,Credit Suisse,0.805712223
+Regulated Market,12:00-13:00,UBS,0.734361829
+Regulated Market,12:00-13:00,Virtu Financial,0.523695984
+Regulated Market,13:00-14:00,Morgan Stanley,0.932408397
+Regulated Market,13:00-14:00,Barclays,0.861491772
+Regulated Market,13:00-14:00,JP Morgan,0.8323078
+Regulated Market,13:00-14:00,Citadel,0.961167629
+Regulated Market,13:00-14:00,Goldman Sachs,1.003099952
+Regulated Market,13:00-14:00,Interactive Brokers,0.993128012
+Regulated Market,13:00-14:00,Bank of America,0.816078248
+Regulated Market,13:00-14:00,Credit Suisse,0.869078762
+Regulated Market,13:00-14:00,UBS,0.933126343
+Regulated Market,13:00-14:00,Virtu Financial,0.997554513
+Regulated Market,14:00-15:00,Morgan Stanley,1.052082576
+Regulated Market,14:00-15:00,Barclays,1.081434102
+Regulated Market,14:00-15:00,JP Morgan,0.989366503
+Regulated Market,14:00-15:00,Citadel,0.980379338
+Regulated Market,14:00-15:00,Goldman Sachs,1.181252582
+Regulated Market,14:00-15:00,Interactive Brokers,1.235624003
+Regulated Market,14:00-15:00,Bank of America,1.092798988
+Regulated Market,14:00-15:00,Credit Suisse,1.20035329
+Regulated Market,14:00-15:00,UBS,1.136163603
+Regulated Market,14:00-15:00,Virtu Financial,1.035488025
+Regulated Market,15:00-16:00,Morgan Stanley,1.336139561
+Regulated Market,15:00-16:00,Barclays,1.453803657
+Regulated Market,15:00-16:00,JP Morgan,1.296417396
+Regulated Market,15:00-16:00,Citadel,1.456464366
+Regulated Market,15:00-16:00,Goldman Sachs,1.03802549
+Regulated Market,15:00-16:00,Interactive Brokers,1.38219025
+Regulated Market,15:00-16:00,Bank of America,1.308704707
+Regulated Market,15:00-16:00,Credit Suisse,1.270099265
+Regulated Market,15:00-16:00,UBS,1.309176078
+Regulated Market,15:00-16:00,Virtu Financial,1.101243109
+Regulated Market,16:00-17:00,Morgan Stanley,1.478032811
+Regulated Market,16:00-17:00,Barclays,1.535711257
+Regulated Market,16:00-17:00,JP Morgan,1.647789404
+Regulated Market,16:00-17:00,Citadel,1.448172978
+Regulated Market,16:00-17:00,Goldman Sachs,1.41915064
+Regulated Market,16:00-17:00,Interactive Brokers,1.449824296
+Regulated Market,16:00-17:00,Bank of America,1.591540212
+Regulated Market,16:00-17:00,Credit Suisse,1.532875111
+Regulated Market,16:00-17:00,UBS,1.44702398
+Regulated Market,16:00-17:00,Virtu Financial,1.551326743
+Regulated Market,Post-Market,Morgan Stanley,2.009707755
+Regulated Market,Post-Market,Barclays,2.096864499
+Regulated Market,Post-Market,JP Morgan,1.929794691
+Regulated Market,Post-Market,Citadel,1.967233785
+Regulated Market,Post-Market,Goldman Sachs,1.960789185
+Regulated Market,Post-Market,Interactive Brokers,1.853648505
+Regulated Market,Post-Market,Bank of America,2.029612028
+Regulated Market,Post-Market,Credit Suisse,2.026105527
+Regulated Market,Post-Market,UBS,2.000511346
+Regulated Market,Post-Market,Virtu Financial,1.976541287
+Multilateral Trading Facility,Pre-Market,Morgan Stanley,1.358462926
+Multilateral Trading Facility,Pre-Market,Barclays,1.457935468
+Multilateral Trading Facility,Pre-Market,JP Morgan,1.465728548
+Multilateral Trading Facility,Pre-Market,Citadel,1.419772273
+Multilateral Trading Facility,Pre-Market,Goldman Sachs,1.483871429
+Multilateral Trading Facility,Pre-Market,Interactive Brokers,1.540405086
+Multilateral Trading Facility,Pre-Market,Bank of America,1.68861859
+Multilateral Trading Facility,Pre-Market,Credit Suisse,1.517457781
+Multilateral Trading Facility,Pre-Market,UBS,1.525755039
+Multilateral Trading Facility,Pre-Market,Virtu Financial,1.492555408
+Multilateral Trading Facility,9:00-10:00,Morgan Stanley,0.808122878
+Multilateral Trading Facility,9:00-10:00,Barclays,0.997348612
+Multilateral Trading Facility,9:00-10:00,JP Morgan,1.006023021
+Multilateral Trading Facility,9:00-10:00,Citadel,1.246324211
+Multilateral Trading Facility,9:00-10:00,Goldman Sachs,0.980763904
+Multilateral Trading Facility,9:00-10:00,Interactive Brokers,1.030154734
+Multilateral Trading Facility,9:00-10:00,Bank of America,0.996528823
+Multilateral Trading Facility,9:00-10:00,Credit Suisse,0.883132196
+Multilateral Trading Facility,9:00-10:00,UBS,1.114282281
+Multilateral Trading Facility,9:00-10:00,Virtu Financial,1.075193303
+Multilateral Trading Facility,10:00-11:00,Morgan Stanley,0.879103195
+Multilateral Trading Facility,10:00-11:00,Barclays,0.709061255
+Multilateral Trading Facility,10:00-11:00,JP Morgan,0.940279431
+Multilateral Trading Facility,10:00-11:00,Citadel,0.659814894
+Multilateral Trading Facility,10:00-11:00,Goldman Sachs,0.858685709
+Multilateral Trading Facility,10:00-11:00,Interactive Brokers,1.019045563
+Multilateral Trading Facility,10:00-11:00,Bank of America,0.700946367
+Multilateral Trading Facility,10:00-11:00,Credit Suisse,0.743370227
+Multilateral Trading Facility,10:00-11:00,UBS,0.809965137
+Multilateral Trading Facility,10:00-11:00,Virtu Financial,0.749652435
+Multilateral Trading Facility,11:00-12:00,Morgan Stanley,0.444933657
+Multilateral Trading Facility,11:00-12:00,Barclays,0.606856297
+Multilateral Trading Facility,11:00-12:00,JP Morgan,0.493769629
+Multilateral Trading Facility,11:00-12:00,Citadel,0.647359243
+Multilateral Trading Facility,11:00-12:00,Goldman Sachs,0.508057577
+Multilateral Trading Facility,11:00-12:00,Interactive Brokers,0.754993441
+Multilateral Trading Facility,11:00-12:00,Bank of America,0.521674671
+Multilateral Trading Facility,11:00-12:00,Credit Suisse,0.567793848
+Multilateral Trading Facility,11:00-12:00,UBS,0.681351722
+Multilateral Trading Facility,11:00-12:00,Virtu Financial,0.476913568
+Multilateral Trading Facility,12:00-13:00,Morgan Stanley,0.722745993
+Multilateral Trading Facility,12:00-13:00,Barclays,0.830714275
+Multilateral Trading Facility,12:00-13:00,JP Morgan,0.539251677
+Multilateral Trading Facility,12:00-13:00,Citadel,0.718463386
+Multilateral Trading Facility,12:00-13:00,Goldman Sachs,0.725988279
+Multilateral Trading Facility,12:00-13:00,Interactive Brokers,0.778182287
+Multilateral Trading Facility,12:00-13:00,Bank of America,0.576304929
+Multilateral Trading Facility,12:00-13:00,Credit Suisse,0.567954339
+Multilateral Trading Facility,12:00-13:00,UBS,0.752194157
+Multilateral Trading Facility,12:00-13:00,Virtu Financial,0.729698467
+Multilateral Trading Facility,13:00-14:00,Morgan Stanley,0.925049285
+Multilateral Trading Facility,13:00-14:00,Barclays,0.934644821
+Multilateral Trading Facility,13:00-14:00,JP Morgan,0.831997528
+Multilateral Trading Facility,13:00-14:00,Citadel,0.92322537
+Multilateral Trading Facility,13:00-14:00,Goldman Sachs,0.929307247
+Multilateral Trading Facility,13:00-14:00,Interactive Brokers,0.828564858
+Multilateral Trading Facility,13:00-14:00,Bank of America,1.086577451
+Multilateral Trading Facility,13:00-14:00,Credit Suisse,0.947383292
+Multilateral Trading Facility,13:00-14:00,UBS,0.78086965
+Multilateral Trading Facility,13:00-14:00,Virtu Financial,0.965655361
+Multilateral Trading Facility,14:00-15:00,Morgan Stanley,1.002531833
+Multilateral Trading Facility,14:00-15:00,Barclays,1.17870846
+Multilateral Trading Facility,14:00-15:00,JP Morgan,1.215859558
+Multilateral Trading Facility,14:00-15:00,Citadel,1.017931768
+Multilateral Trading Facility,14:00-15:00,Goldman Sachs,1.196337613
+Multilateral Trading Facility,14:00-15:00,Interactive Brokers,1.141278093
+Multilateral Trading Facility,14:00-15:00,Bank of America,1.182206016
+Multilateral Trading Facility,14:00-15:00,Credit Suisse,1.289679298
+Multilateral Trading Facility,14:00-15:00,UBS,1.075461188
+Multilateral Trading Facility,14:00-15:00,Virtu Financial,1.024626384
+Multilateral Trading Facility,15:00-16:00,Morgan Stanley,1.211048557
+Multilateral Trading Facility,15:00-16:00,Barclays,1.218418972
+Multilateral Trading Facility,15:00-16:00,JP Morgan,1.292289829
+Multilateral Trading Facility,15:00-16:00,Citadel,1.334115197
+Multilateral Trading Facility,15:00-16:00,Goldman Sachs,1.32766908
+Multilateral Trading Facility,15:00-16:00,Interactive Brokers,1.382718325
+Multilateral Trading Facility,15:00-16:00,Bank of America,1.301300189
+Multilateral Trading Facility,15:00-16:00,Credit Suisse,1.445353408
+Multilateral Trading Facility,15:00-16:00,UBS,1.273534317
+Multilateral Trading Facility,15:00-16:00,Virtu Financial,1.572016917
+Multilateral Trading Facility,16:00-17:00,Morgan Stanley,1.562566735
+Multilateral Trading Facility,16:00-17:00,Barclays,1.414284244
+Multilateral Trading Facility,16:00-17:00,JP Morgan,1.39291075
+Multilateral Trading Facility,16:00-17:00,Citadel,1.548247242
+Multilateral Trading Facility,16:00-17:00,Goldman Sachs,1.477653721
+Multilateral Trading Facility,16:00-17:00,Interactive Brokers,1.571400049
+Multilateral Trading Facility,16:00-17:00,Bank of America,1.547323762
+Multilateral Trading Facility,16:00-17:00,Credit Suisse,1.492717109
+Multilateral Trading Facility,16:00-17:00,UBS,1.415320628
+Multilateral Trading Facility,16:00-17:00,Virtu Financial,1.348515278
+Multilateral Trading Facility,Post-Market,Morgan Stanley,1.955348505
+Multilateral Trading Facility,Post-Market,Barclays,2.085639879
+Multilateral Trading Facility,Post-Market,JP Morgan,2.021409374
+Multilateral Trading Facility,Post-Market,Citadel,1.875426122
+Multilateral Trading Facility,Post-Market,Goldman Sachs,2.017318093
+Multilateral Trading Facility,Post-Market,Interactive Brokers,2.038531738
+Multilateral Trading Facility,Post-Market,Bank of America,1.911614256
+Multilateral Trading Facility,Post-Market,Credit Suisse,2.015372511
+Multilateral Trading Facility,Post-Market,UBS,2.005820872
+Multilateral Trading Facility,Post-Market,Virtu Financial,1.88570297
+Organized Trading Facility,Pre-Market,Morgan Stanley,1.535778736
+Organized Trading Facility,Pre-Market,Barclays,1.556078453
+Organized Trading Facility,Pre-Market,JP Morgan,1.608305124
+Organized Trading Facility,Pre-Market,Citadel,1.605380205
+Organized Trading Facility,Pre-Market,Goldman Sachs,1.362233063
+Organized Trading Facility,Pre-Market,Interactive Brokers,1.406217496
+Organized Trading Facility,Pre-Market,Bank of America,1.551503527
+Organized Trading Facility,Pre-Market,Credit Suisse,1.551378595
+Organized Trading Facility,Pre-Market,UBS,1.551504769
+Organized Trading Facility,Pre-Market,Virtu Financial,1.885273149
+Organized Trading Facility,9:00-10:00,Morgan Stanley,1.057089051
+Organized Trading Facility,9:00-10:00,Barclays,1.113556564
+Organized Trading Facility,9:00-10:00,JP Morgan,1.095400176
+Organized Trading Facility,9:00-10:00,Citadel,1.065139125
+Organized Trading Facility,9:00-10:00,Goldman Sachs,0.968473076
+Organized Trading Facility,9:00-10:00,Interactive Brokers,1.075896922
+Organized Trading Facility,9:00-10:00,Bank of America,0.922717479
+Organized Trading Facility,9:00-10:00,Credit Suisse,0.976318139
+Organized Trading Facility,9:00-10:00,UBS,0.951463645
+Organized Trading Facility,9:00-10:00,Virtu Financial,1.008187414
+Organized Trading Facility,10:00-11:00,Morgan Stanley,1.031465857
+Organized Trading Facility,10:00-11:00,Barclays,0.613273481
+Organized Trading Facility,10:00-11:00,JP Morgan,0.868626019
+Organized Trading Facility,10:00-11:00,Citadel,0.638728413
+Organized Trading Facility,10:00-11:00,Goldman Sachs,0.752806813
+Organized Trading Facility,10:00-11:00,Interactive Brokers,0.90889506
+Organized Trading Facility,10:00-11:00,Bank of America,0.806428002
+Organized Trading Facility,10:00-11:00,Credit Suisse,0.692225522
+Organized Trading Facility,10:00-11:00,UBS,0.728469629
+Organized Trading Facility,10:00-11:00,Virtu Financial,0.867959775
+Organized Trading Facility,11:00-12:00,Morgan Stanley,0.526963337
+Organized Trading Facility,11:00-12:00,Barclays,0.621645859
+Organized Trading Facility,11:00-12:00,JP Morgan,0.604557184
+Organized Trading Facility,11:00-12:00,Citadel,0.534839965
+Organized Trading Facility,11:00-12:00,Goldman Sachs,0.814394409
+Organized Trading Facility,11:00-12:00,Interactive Brokers,0.663391902
+Organized Trading Facility,11:00-12:00,Bank of America,0.397485741
+Organized Trading Facility,11:00-12:00,Credit Suisse,0.618645431
+Organized Trading Facility,11:00-12:00,UBS,0.533821354
+Organized Trading Facility,11:00-12:00,Virtu Financial,0.685243333
+Organized Trading Facility,12:00-13:00,Morgan Stanley,0.620747926
+Organized Trading Facility,12:00-13:00,Barclays,0.688526356
+Organized Trading Facility,12:00-13:00,JP Morgan,0.750498728
+Organized Trading Facility,12:00-13:00,Citadel,0.786575519
+Organized Trading Facility,12:00-13:00,Goldman Sachs,0.579970359
+Organized Trading Facility,12:00-13:00,Interactive Brokers,0.666549876
+Organized Trading Facility,12:00-13:00,Bank of America,0.652505469
+Organized Trading Facility,12:00-13:00,Credit Suisse,0.634667077
+Organized Trading Facility,12:00-13:00,UBS,0.876545424
+Organized Trading Facility,12:00-13:00,Virtu Financial,0.740498171
+Organized Trading Facility,13:00-14:00,Morgan Stanley,0.773911605
+Organized Trading Facility,13:00-14:00,Barclays,0.991786195
+Organized Trading Facility,13:00-14:00,JP Morgan,1.11221562
+Organized Trading Facility,13:00-14:00,Citadel,1.003246526
+Organized Trading Facility,13:00-14:00,Goldman Sachs,0.748063003
+Organized Trading Facility,13:00-14:00,Interactive Brokers,0.851576593
+Organized Trading Facility,13:00-14:00,Bank of America,1.026691115
+Organized Trading Facility,13:00-14:00,Credit Suisse,0.829233053
+Organized Trading Facility,13:00-14:00,UBS,0.944381943
+Organized Trading Facility,13:00-14:00,Virtu Financial,0.977463405
+Organized Trading Facility,14:00-15:00,Morgan Stanley,1.007306953
+Organized Trading Facility,14:00-15:00,Barclays,1.094047464
+Organized Trading Facility,14:00-15:00,JP Morgan,0.775873266
+Organized Trading Facility,14:00-15:00,Citadel,0.997561236
+Organized Trading Facility,14:00-15:00,Goldman Sachs,1.074743185
+Organized Trading Facility,14:00-15:00,Interactive Brokers,0.975221682
+Organized Trading Facility,14:00-15:00,Bank of America,1.26324113
+Organized Trading Facility,14:00-15:00,Credit Suisse,0.956985862
+Organized Trading Facility,14:00-15:00,UBS,1.055995551
+Organized Trading Facility,14:00-15:00,Virtu Financial,1.113074058
+Organized Trading Facility,15:00-16:00,Morgan Stanley,1.444127329
+Organized Trading Facility,15:00-16:00,Barclays,1.156413785
+Organized Trading Facility,15:00-16:00,JP Morgan,1.416316375
+Organized Trading Facility,15:00-16:00,Citadel,1.301023306
+Organized Trading Facility,15:00-16:00,Goldman Sachs,1.201849135
+Organized Trading Facility,15:00-16:00,Interactive Brokers,1.346210347
+Organized Trading Facility,15:00-16:00,Bank of America,1.31990597
+Organized Trading Facility,15:00-16:00,Credit Suisse,1.239978312
+Organized Trading Facility,15:00-16:00,UBS,1.306980208
+Organized Trading Facility,15:00-16:00,Virtu Financial,1.26146864
+Organized Trading Facility,16:00-17:00,Morgan Stanley,1.511351735
+Organized Trading Facility,16:00-17:00,Barclays,1.566213067
+Organized Trading Facility,16:00-17:00,JP Morgan,1.658601682
+Organized Trading Facility,16:00-17:00,Citadel,1.37621845
+Organized Trading Facility,16:00-17:00,Goldman Sachs,1.713303337
+Organized Trading Facility,16:00-17:00,Interactive Brokers,1.30479122
+Organized Trading Facility,16:00-17:00,Bank of America,1.48482149
+Organized Trading Facility,16:00-17:00,Credit Suisse,1.558831721
+Organized Trading Facility,16:00-17:00,UBS,1.528099187
+Organized Trading Facility,16:00-17:00,Virtu Financial,1.437730048
+Organized Trading Facility,Post-Market,Morgan Stanley,1.979187775
+Organized Trading Facility,Post-Market,Barclays,1.950699907
+Organized Trading Facility,Post-Market,JP Morgan,1.941063524
+Organized Trading Facility,Post-Market,Citadel,2.08496021
+Organized Trading Facility,Post-Market,Goldman Sachs,2.035701549
+Organized Trading Facility,Post-Market,Interactive Brokers,1.93070904
+Organized Trading Facility,Post-Market,Bank of America,2.089959988
+Organized Trading Facility,Post-Market,Credit Suisse,2.030729952
+Organized Trading Facility,Post-Market,UBS,2.081286212
+Organized Trading Facility,Post-Market,Virtu Financial,2.062962884
