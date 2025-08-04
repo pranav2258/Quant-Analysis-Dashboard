@@ -11,4 +11,4 @@ An interactive Tableau dashboard designed for equity analysis. It includes visua
 
 ## 📷 Dashboard Preview
 
-![Equity Dashboard Preview](images/dashboard-preview.png)
+![Equity Dashboard Preview](dashboard-preview.png)
